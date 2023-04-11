@@ -2,4 +2,6 @@
 
 Merhaba, bu projede ListView ile listeden aldığım öğeleri uygulamada gösterdik ve bu nesneleri silebiliyoruz.
 
+iyi günler.
+
 Projenin örnek bir hali: https://www.youtube.com/watch?v=bJ9w63Y9WTw&ab_channel=ArdaAslan
