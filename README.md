@@ -1,4 +1,4 @@
-# Flutter ile Liste işlemleri #1 Dart ile progamlama #3
+# Flutter ile Liste işlemleri #1 (ListView) Dart ile progamlama #3
 
 Merhaba, bu projede ListView ile listeden aldığım öğeleri uygulamada gösterdik ve bu nesneleri silebiliyoruz.
 
